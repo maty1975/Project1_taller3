@@ -1,0 +1,21 @@
+<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon/Locker-Unlocked">
+<g id="Group">
+<g id="Vector" filter="url(#filter0_i_927_18948)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.07146 9.71429C5.40083 9.71429 4.85718 10.2579 4.85718 10.9286V32.7857C4.85718 33.4563 5.40083 34 6.07146 34H27.9286C28.5992 34 29.1429 33.4563 29.1429 32.7857V10.9286C29.1429 10.2579 28.5992 9.71429 27.9286 9.71429H6.07146ZM15.1786 18.8214C14.508 18.8214 13.9643 19.3651 13.9643 20.0357V23.6786C13.9643 24.3492 14.508 24.8929 15.1786 24.8929H18.8215C19.4921 24.8929 20.0357 24.3492 20.0357 23.6786V20.0357C20.0357 19.3651 19.4921 18.8214 18.8215 18.8214H15.1786Z" fill="#3A4EBA"/>
+<path d="M8.50003 1.21429C8.50003 0.543654 9.04369 0 9.71432 0H24.2857C24.9564 0 25.5 0.543654 25.5 1.21429V5.46429C25.5 6.13492 24.9564 6.67857 24.2857 6.67857H23.0715C22.4008 6.67857 21.8572 6.13492 21.8572 5.46429V3.64286H12.1429V9.71429H8.50003V1.21429Z" fill="#3A4EBA"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_i_927_18948" x="4.85718" y="0" width="24.2856" height="34" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1.21429"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_927_18948"/>
+</filter>
+</defs>
+</svg>

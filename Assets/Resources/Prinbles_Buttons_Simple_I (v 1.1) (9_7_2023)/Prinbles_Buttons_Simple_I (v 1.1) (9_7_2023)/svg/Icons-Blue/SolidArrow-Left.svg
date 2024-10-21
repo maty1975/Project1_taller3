@@ -1,0 +1,20 @@
+<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon/SolidArrow-Left">
+<g id="Group">
+<g id="Figure" filter="url(#filter0_i_927_18923)">
+<path d="M23.0715 31.5858C23.0715 32.4767 21.9944 32.9229 21.3644 32.2929L6.77864 17.7071C6.38812 17.3166 6.38812 16.6834 6.77864 16.2929L21.3644 1.70711C21.9944 1.07714 23.0715 1.52331 23.0715 2.41421L23.0715 31.5858Z" fill="#3A4EBA"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_i_927_18923" x="6.48584" y="1.41223" width="16.5857" height="31.1755" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1.21429"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_927_18923"/>
+</filter>
+</defs>
+</svg>

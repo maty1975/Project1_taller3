@@ -1,0 +1,1051 @@
+fileFormatVersion: 2
+guid: 25fbdd805c0285447aaa8853d932c456
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 87
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4460f24968b5169488e7bbcb5ca274fd
+      internalID: 1989902111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 85
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67efde6190179f848993228ba615e47b
+      internalID: 1439150493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 86
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688df97720c313247b24cb7d393ab792
+      internalID: -40013060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 86
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e4ae98a74018a4b9334f33b0d90de9
+      internalID: -330795856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 84
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f269b8d8f525b49be7aa4be666e1af
+      internalID: 285622907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 84
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15dfb39ba412324a96e96a75693130c
+      internalID: 2125013909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 84
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c82bf88dbe02b94f86d25835feeabca
+      internalID: -999170094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 31
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bcda888aa36a3419b4c802e99b3611
+      internalID: -61714101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 87
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867a2dbf6ab26464e8da7ce8fad7a418
+      internalID: -2038778601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 87
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46e4405d1f37db4cbb04f948347c66b
+      internalID: -1954868453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 87
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bffd295d262fd4191e0dd23ff62b76
+      internalID: -1243930401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3370690c32af9448997ae3eed769f2
+      internalID: -1490807096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 59
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4a4595df1c6d742921f2a92ed2fd0b
+      internalID: 1984651495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 59
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9d7764ce6fa6346892c053e5c8c961
+      internalID: -1846338398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 59
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305790550e76a7e4e88d17ce37c89a24
+      internalID: 1814686562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 56
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb744f0b7b9fe24ba15b4913b2ff71d
+      internalID: 1601762142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 56
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcafda693084d6345bda0b47901ee00a
+      internalID: 1624105820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 56
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ff2bdd6f6e3464c9c47b391f3d1702
+      internalID: 27361470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7a85b8267d56c4b8909824c619250e
+      internalID: 1539677247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffb7434ab1e6da45bf723992ffc9a1b
+      internalID: 218741722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_20
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88602da7edebb3e4c838a521bee1d3d3
+      internalID: -1041153695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b13bfcc93bcd4b41aa2ecb504cc0165
+      internalID: -289872526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ec7f7e9e3bd404ea8ed49c5169552f
+      internalID: 972903378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 28
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2225d4b9ef2fa4a99153762156a942
+      internalID: -1852979220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 31
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd513d93ef4979c42801bcfa6439fee0
+      internalID: -979050487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 31
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d657c5797ecbc4d9ef5cb5e4a22757
+      internalID: -1546636822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5daefb6acabf1c45852b1499ed988ab
+      internalID: -1060595024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd7380ea6a7816459333bb765ff5f1e
+      internalID: 1053351604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe962d5f77dfe4097fe9cade78c279
+      internalID: -270594564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_29
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43af2f613fb1aa40b410b613b4447e3
+      internalID: 90048411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 55
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62fee89d495fad479dcb0fad5bb9818
+      internalID: -362180289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 56
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcff66cdc87d769498adc8676bac278c
+      internalID: 1851338174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_32
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 57
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93e2d737a19c8a4fb8faf9d4559f30e
+      internalID: -1483796689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_33
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 29
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4167dffc3c90f34fb123fcb0285d61a
+      internalID: -1482522843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_34
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a329435aaad95ba4d87d5335a5a264b8
+      internalID: 496822955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 30
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5409e4c8f3f83489281f5a0a55ea8b
+      internalID: -932878052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501ff60ccebac1d4a97e757fdb0f4a7f
+      internalID: -544361718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 29
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfbfee396cfb0147bd582cd60de489e
+      internalID: -1358665364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 28
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d8a21ad7e11dd4d9c3f9458e5391f9
+      internalID: -151618734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_39
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 28
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd9d7e415cdd0c4eb3cbce4264d92c7
+      internalID: -2107696942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 57
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b2934446d550a40a960f2ad006c534
+      internalID: 1692389193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 3  Glow - BLUE_41
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 85
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f1c33ecdbf8c94c9bd4c6107e76c8b
+      internalID: 1711455204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sign 3  Glow - BLUE_0: 1989902111
+      Sign 3  Glow - BLUE_1: 1439150493
+      Sign 3  Glow - BLUE_10: -1243930401
+      Sign 3  Glow - BLUE_11: -1490807096
+      Sign 3  Glow - BLUE_12: 1984651495
+      Sign 3  Glow - BLUE_13: -1846338398
+      Sign 3  Glow - BLUE_14: 1814686562
+      Sign 3  Glow - BLUE_15: 1601762142
+      Sign 3  Glow - BLUE_16: 1624105820
+      Sign 3  Glow - BLUE_17: 27361470
+      Sign 3  Glow - BLUE_18: 1539677247
+      Sign 3  Glow - BLUE_19: 218741722
+      Sign 3  Glow - BLUE_2: -40013060
+      Sign 3  Glow - BLUE_20: -1041153695
+      Sign 3  Glow - BLUE_21: -289872526
+      Sign 3  Glow - BLUE_22: 972903378
+      Sign 3  Glow - BLUE_23: -1852979220
+      Sign 3  Glow - BLUE_24: -979050487
+      Sign 3  Glow - BLUE_25: -1546636822
+      Sign 3  Glow - BLUE_26: -1060595024
+      Sign 3  Glow - BLUE_27: 1053351604
+      Sign 3  Glow - BLUE_28: -270594564
+      Sign 3  Glow - BLUE_29: 90048411
+      Sign 3  Glow - BLUE_3: -330795856
+      Sign 3  Glow - BLUE_30: -362180289
+      Sign 3  Glow - BLUE_31: 1851338174
+      Sign 3  Glow - BLUE_32: -1483796689
+      Sign 3  Glow - BLUE_33: -1482522843
+      Sign 3  Glow - BLUE_34: 496822955
+      Sign 3  Glow - BLUE_35: -932878052
+      Sign 3  Glow - BLUE_36: -544361718
+      Sign 3  Glow - BLUE_37: -1358665364
+      Sign 3  Glow - BLUE_38: -151618734
+      Sign 3  Glow - BLUE_39: -2107696942
+      Sign 3  Glow - BLUE_4: 285622907
+      Sign 3  Glow - BLUE_40: 1692389193
+      Sign 3  Glow - BLUE_41: 1711455204
+      Sign 3  Glow - BLUE_5: 2125013909
+      Sign 3  Glow - BLUE_6: -999170094
+      Sign 3  Glow - BLUE_7: -61714101
+      Sign 3  Glow - BLUE_8: -2038778601
+      Sign 3  Glow - BLUE_9: -1954868453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
